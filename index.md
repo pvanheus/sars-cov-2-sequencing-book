@@ -8,12 +8,24 @@ TODO
 ## Resources
 
 CanCOGen: https://github.com/jaleezyy/covid-19-signal
+
 Read cleaning for Nanopore: https://github.com/nodrogluap/nanostripper
+
 Discussion of human read removal: https://github.com/jaleezyy/covid-19-signal/issues/21
+
 Jared Simpson ncov-tools: https://github.com/jts/ncov-tools
+
 COG: https://github.com/connor-lab/ncov2019-artic-nf
+
 viralrecon: https://nf-co.re/viralrecon
+
 viral-ngs: https://github.com/broadinstitute/viral-ngs
+
+ARTIC on Galaxy: https://covid19.galaxyproject.org/artic/
+
+ARTIC-minion-medaka: https://github.com/galaxyproject/tools-iuc/tree/master/tools/artic
+
+ARTIC field bioinformatics: https://github.com/artic-network/fieldbioinformatics
 
 1. SARS-CoV-2 sequencing technologies
     1. The Challenge of viral sequencing: Host removal, RNA preservation, RNA diversity
